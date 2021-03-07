@@ -1,0 +1,46 @@
+/*body {
+  background-color: #302C2C;
+  color: #D8D2B1;
+}
+
+#title {
+  color: #302C2C;
+
+  font-family: 'Oi', cursive;
+  /* font-family: 'Russo One', sans-serif; *
+  /* font-size: 40px; *
+  text-align: center;
+}
+
+th {
+  color: #B2CBCA;
+}
+
+tr {
+  color: #D8D2B1;
+  text-align: center;
+}
+
+
+table {
+  border-color: #C5C28B;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer{
+  text-align: center;
+  font-size: 0.8em;
+}*/
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: .3rem;
+}
+
+.jumbotron {
+  background-color: #C2C28B;
+}
